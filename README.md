@@ -30,7 +30,8 @@ players. Development progressed in stages, each adding new functionality:
 
 ## Demo
 
-<video width="1920" height="1080" align="center" src=""></video>
+<video width="1920" height="1080" align="center" src="https://github.com/user-attachments/assets/8a8f1fba-ef7b-4a95-87a7-5d01c6cfd6d4"></video>
+
 
 ## Takeaway
 
